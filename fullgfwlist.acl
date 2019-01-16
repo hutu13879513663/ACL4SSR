@@ -16,10 +16,11 @@
 [proxy_list]
 
 # MyList
+(^|\·)dilidili.wang$
+(^|\.)kan300.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
-(^|\.)cccat\.cc$
 (^|\.)cloudfront\.net$
 (^|\.)dmm\.co\.jp$
 (^|\.)gvt\w\.com$
