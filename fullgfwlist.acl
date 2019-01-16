@@ -16,9 +16,9 @@
 [proxy_list]
 
 # MyList
-(^|\·)dilidili.wang$
-(^|\.)kan300.com$
-(^|\.)ip138.com$
+(^|\.)\w*.\dilidili\.wang$
+(^|\.)\w*\.kan300.com$
+(^|\.)\w*\.ip138.com$
 (^|\.)apkmirror\.com$
 (^|\.)bit\.no\.com$
 (^|\.)btlibrary\.me$
